@@ -1,7 +1,4 @@
 #!/bin/bash
-# Hound v 0.2
-# Powered by TechChip
-# visit https://youtube.com/techchipnet
 
 trap 'printf "\n";stop' 2
 
